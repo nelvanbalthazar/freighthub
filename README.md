@@ -8,6 +8,6 @@
 
 ### Explanation
 
-In this project I'm using Node, Express and Typescript. In this case i created dummy data which is placed in ```src/data/shipment.ts```, Then I created two endpoints (REST API) to get all shipment and to update shipment based on request data that passed to it. 
+In this project I'm using Node, Express and Typescript. In this case i created dummy data which is placed in ```src/data/shipment.ts```, Then I created two endpoints (REST API) to get all shipment data and to update that shipment data based on request that passed to it. 
 File ```challenge.ts``` which was given before, I renamed it and moved to folder ```src/implementation/shipment.ts``` and all solution based on problem given was written inside.
 
